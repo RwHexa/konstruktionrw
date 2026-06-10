@@ -12,4 +12,7 @@ verwendet.
 Bei einem defekten Bauteil einer Maschine die für die Produktion wichtig ist, und nicht auf Lager war,
 haben wir auf diesen Wege **CAD mit Autodesk + Ki"Claude"-Unterstützung** dieses Problem gelöst!
 
+## Projekte Übersicht
+
+![Mein Pro](ProjekteUebersicht.png)
 
